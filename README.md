@@ -1,6 +1,3 @@
-# forecast-confidence-luxury
-Demand forecasting model for luxury &amp; beauty (Hermès). Identifies trend breaks, seasonality, and scarcity effects.
-
 # From Gut Feel to Forecast Confidence
 ## Demand Forecasting for Luxury & Beauty (Hermès, Dior, LVMH)
 
