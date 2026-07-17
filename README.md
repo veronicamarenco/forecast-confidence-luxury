@@ -43,7 +43,8 @@ This tool identifies which signals actually drive luxury demand:
    streamlit run app/streamlit_dashboard.py
 ```
 
-4. **Use the Python API**:
+4. **Python and Python API
+5. **:
 ```python
    from src.forecast_model import LuxuryDemandForecaster
    
